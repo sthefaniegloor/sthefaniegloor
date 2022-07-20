@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Sthefanie Torres Gloor :blush:
+- I'm Sthefanie Gloor :blush:
 - I'm a Medicinal Chemistry student who fell in love with technology :alembic:
 - Currently learning HTML, CSS, Javascript and Python :computer:
 - I'm always open to learn new things and meet new people :handshake:
